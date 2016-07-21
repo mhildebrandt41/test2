@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 </head>
 <body>
-	<p>This is a test For a new commit.</p>
+	<p>This is a test</p>
 	<p></p>
 
 </body>
