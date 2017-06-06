@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 </head>
 <body>
-	<p>This is a test, Master branch</p>
+	<p>This is a test, Master branch change</p>
 	<p></p>
 
 </body>
